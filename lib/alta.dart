@@ -116,6 +116,7 @@ class AltaBody extends StatefulWidget {
 
 class _AltaBodyState extends State<AltaBody> {
 
+  @override
   void initState(){
     super.initState();
     obterAlta();
