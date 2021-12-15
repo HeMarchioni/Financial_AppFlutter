@@ -1,4 +1,11 @@
-# previsao_tempo
+# Financial_AppFLutter
+
+## Trabalhando um Web-Service
+
+Desenvolver um App que permita ao usuário obter informações  sobre o Tempo/previsão ou
+Correios ou Cotação
+
+<br><br>
 
 A new Flutter project.
 
